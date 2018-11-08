@@ -1,0 +1,18 @@
+C:\Users\DameJ\Documents\Visual Studio 2010\Projects\TBWI-SALES\TBWI-SALES\bin\Debug\TBWI-SALES.exe
+C:\Users\DameJ\Documents\Visual Studio 2010\Projects\TBWI-SALES\TBWI-SALES\bin\Debug\TBWI-SALES.pdb
+C:\Users\DameJ\Documents\Visual Studio 2010\Projects\TBWI-SALES\TBWI-SALES\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\DameJ\Documents\Visual Studio 2010\Projects\TBWI-SALES\TBWI-SALES\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\DameJ\Documents\Visual Studio 2010\Projects\TBWI-SALES\TBWI-SALES\obj\x86\Debug\TBWI-SALES.csproj.GenerateResource.Cache
+C:\Users\DameJ\Documents\Visual Studio 2010\Projects\TBWI-SALES\TBWI-SALES\obj\x86\Debug\TBWI-SALES.exe
+C:\Users\DameJ\Documents\Visual Studio 2010\Projects\TBWI-SALES\TBWI-SALES\obj\x86\Debug\TBWI-SALES.pdb
+C:\Users\DameJ\Documents\Visual Studio 2010\Projects\TBWI-SALES\TBWI-SALES\obj\x86\Debug\TBWI-SALES.csprojResolveAssemblyReference.cache
+C:\Users\DameJ\Documents\Visual Studio 2010\Projects\TBWI-SALES\TBWI-SALES\obj\x86\Debug\TBWI-SALES.csproj.ResolveComReference.cache
+C:\Users\DameJ\Documents\Visual Studio 2010\Projects\TBWI-SALES - Copy\TBWI-SALES\obj\x86\Debug\TBWI-SALES.csproj.ResolveComReference.cache
+C:\Users\DameJ\Documents\Visual Studio 2010\Projects\TBWI-SALES - Copy\TBWI-SALES\obj\x86\Debug\TBWI-SALES.exe
+C:\Users\DameJ\Documents\Visual Studio 2010\Projects\TBWI-SALES - Copy\TBWI-SALES\obj\x86\Debug\TBWI-SALES.pdb
+C:\Users\DameJ\Documents\Visual Studio 2010\Projects\TBWI-SALES - Copy\TBWI-SALES\obj\x86\Debug\TBWI-SALES.csprojResolveAssemblyReference.cache
+C:\Users\DameJ\Documents\Visual Studio 2010\Projects\TBWI-SALES - Copy\TBWI-SALES\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\DameJ\Documents\Visual Studio 2010\Projects\TBWI-SALES - Copy\TBWI-SALES\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\DameJ\Documents\Visual Studio 2010\Projects\TBWI-SALES - Copy\TBWI-SALES\obj\x86\Debug\TBWI-SALES.csproj.GenerateResource.Cache
+C:\Users\DameJ\Documents\Visual Studio 2010\Projects\TBWI-SALES - Copy\TBWI-SALES\bin\Debug\TBWI-SALES.exe
+C:\Users\DameJ\Documents\Visual Studio 2010\Projects\TBWI-SALES - Copy\TBWI-SALES\bin\Debug\TBWI-SALES.pdb
